@@ -4,6 +4,7 @@ I’m a passionate developer with experience in various programming languages an
 
 ## 🌱 Current Learning
 I'm currently learning the .NET framework to expand my knowledge in full-stack development and explore more advanced C# features. I'm excited about building scalable applications and working with the latest tools in the .NET ecosystem!
+While I don't plan to release any games, I enjoy experimenting with the development of new mechanics I have not created before. 
 
 ## 🧑‍💻 Languages and Technologies
 - **Programming Languages**: C, C++, C#, HTML, CSS, JavaScript, Python, Java
