@@ -16,7 +16,7 @@ While I don't plan to release any games, I enjoy experimenting with the developm
 Here are a few of my personal projects that I've worked on:
 
 - [Clicker Game](#): A fun idle game made with Unity.
-- [HouseRules](#): Built in Unity; the start of a game that features many card games.
+- [HouseRules](#): Built in Unity; features Solitare and the potential to add other card games.
 - [RPG](#): A partially started attempt to recreate Pokemon Leaf Green with my own twist.
 - [FormFiller](#): A C# tool to automate form/survey submissions.
 
