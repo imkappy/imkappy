@@ -1,4 +1,4 @@
-# Welcome, I'm Caleb, also known as imkappy 👋
+# Welcome, I'm Caleb, also known as, imkappy 👋
 
 I’m a passionate developer with experience in various programming languages and frameworks. I enjoy building projects that challenge my skills and allow me to grow as a developer.
 
