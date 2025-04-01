@@ -15,10 +15,10 @@ While I don't plan to release any games, I enjoy experimenting with the developm
 ## 🔧 Projects
 Here are a few of my personal projects that I've worked on:
 
-- [Clicker Game]([#](https://github.com/imkappy/Clicker-Game)): A fun idle game made with Unity.
-- [HouseRules]([#](https://github.com/imkappy/HouseRules)): Built in Unity; features Solitare and the potential to add other card games.
-- [RPG]([#](https://github.com/imkappy/RPG)): A partially started attempt to recreate Pokemon Leaf Green with my own twist.
-- [FormFiller]([#](https://github.com/imkappy/FormFiller)): A C# tool to automate form/survey submissions.
+- [Clicker Game](https://github.com/imkappy/Clicker-Game): A fun idle game made with Unity.
+- [HouseRules](https://github.com/imkappy/HouseRules): Built in Unity; features Solitare and the potential to add other card games.
+- [RPG](https://github.com/imkappy/RPG): A partially started attempt to recreate Pokemon Leaf Green with my own twist.
+- [FormFiller](https://github.com/imkappy/FormFiller): A C# tool to automate form/survey submissions.
 
 ## 📫 How to reach me:
 - **Email**: [kidkappy@gmail.com](mailto:kidkappy@gmail.com)
