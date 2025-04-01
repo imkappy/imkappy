@@ -25,4 +25,4 @@ Here are a few of my personal projects that I've worked on:
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/caleb-caplinger-6109b316b/)
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=imkappy&show_icons=true&hide_title=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=imkappy&show_icons=true&hide_title=true)
