@@ -22,7 +22,7 @@ Here are a few of my personal projects that I've worked on:
 
 ## 📫 How to reach me:
 - **Email**: [kidkappy@gmail.com](mailto:kidkappy@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/caleb-caplinger-6109b316b/)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/caleb-caplinger-6109b316b/) (View my work history and non-coding projects here)
 
 ## 📈 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=imkappy&show_icons=true&hide_title=true)
