@@ -7,10 +7,10 @@ I'm currently learning the .NET framework to expand my knowledge in full-stack d
 While I don't plan to release any games, I enjoy experimenting with the development of new mechanics I have not created before. 
 
 ## 🧑‍💻 Languages and Technologies
-- **Programming Languages**: C, C++, C#, HTML, CSS, JavaScript, Python, Java
+- **Programming Languages**: C#, C++, C, SQL, HTML, CSS, JavaScript, Python, Java
 - **Game Engines**: Unity, Unreal Engine
-- **Tools & Frameworks**: Selenium, Git, Visual Studio, VS Code
-- **Currently Learning**: .NET Framework
+- **Tools & Frameworks**: Visual Studio, VS Code, SSMS, Git, Selenium, Azure
+- **Currently Learning**: .NET Framework, Azure
 
 ## 🔧 Projects
 Here are a few of my personal projects that I've worked on:
