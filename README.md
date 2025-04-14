@@ -19,10 +19,8 @@ While I don't plan to release a full game soon, I enjoy designing systems, creat
 ## 🔧 Projects
 Here are a few of my personal projects that I've worked on:
 
-- [Therapy Scheduler](https://github.com/imkappy/Therapy-Scheduler)
-A system to help therapy companies manage doctor appointments and patient schedules. This project involves **database management** (ERD), **system design**, and **class modeling** to ensure an efficient scheduling system for healthcare professionals.  
-
-- [Clicker Game](https://github.com/imkappy/Clicker-Game): A fun idle game made with Unity.
+- [Therapy Scheduler](https://github.com/imkappy/Therapy-Scheduler): A system to help a therapy company manage doctor appointments and patient schedules. This project involves **database management** (ERD), **system design**, and **class modeling** to ensure an efficient scheduling system for healthcare professionals.  
+- [Clicker Game](https://github.com/imkappy/Clicker-Game): A fun idle game made with Unity. Inspired by popular clicker games like **Idle Slayer** and **Clicker Heroes**
 - [HouseRules](https://github.com/imkappy/HouseRules): Built in Unity; features Solitare and the potential to add other card games.
 - [RPG](https://github.com/imkappy/RPG): A partially started attempt to recreate Pokemon Leaf Green with my own twist.
 - [FormFiller](https://github.com/imkappy/FormFiller): A C# tool to automate form/survey submissions.
