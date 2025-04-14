@@ -6,15 +6,15 @@ I’m a passionate developer with experience in various programming languages an
 - Deepening my C# and .NET framework skills to develop scalable, full-stack applications.
 - Experimenting with Unity to prototype and design new gameplay mechanics.
 - Developing solo projects to improve my coding, math, and problem-solving skills in game development.
-- Exploring database management and systems design principles.
+- Exploring database management and systems design principles, focusing on relational databases and system architecture
 - Practicing **problem-solving** and **critical thinking** by designing and building full-stack systems and games.
 
 While I don't plan to release a full game soon, I enjoy designing systems, creating modular code, and implementing new mechanics even with rough placeholder art and sound.
 
 ## 🧑‍💻 Languages and Technologies
-**Languages**: C, C++, C#, HTML, CSS, JavaScript, Python, Java  
+**Languages**: C, C++, C#, HTML, CSS, JavaScript, Python
 **Game Engines**: Unity, Unreal Engine  
-**Frameworks/Tools**: .NET, Selenium, Git, Visual Studio, VS Code, SQL  
+**Frameworks/Tools**: .NET, Selenium, Git, Visual Studio, VS Code, SQL, Azure  
 **Currently Improving**: .NET Full-stack Development, **Basic Frontend Web Development** (HTML/CSS/JavaScript), Database Systems, Web Communication
 
 ## 🔧 Projects
