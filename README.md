@@ -24,7 +24,7 @@ Here are a few of my personal projects that I've worked on:
 - [RPG](https://github.com/imkappy/RPG): A partially started attempt to recreate Pokemon Leaf Green with my own twist.
 - [FormFiller](https://github.com/imkappy/FormFiller): A C# tool to automate form/survey submissions. 
 
-##🏫University Class Projects
+## 🏫 University Class Projects
 Below are projects that I have done for classes at a university. Some projects were all solo and some projects were with a team of other students
 - [Therapy Scheduler](https://github.com/imkappy/Therapy-Scheduler): A system to help a therapy company manage doctor appointments and patient schedules. This project involves **database management** (ERD), **system design**, and **class modeling** to ensure an efficient scheduling system for healthcare professionals.  
 
