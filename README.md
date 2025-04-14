@@ -3,14 +3,18 @@
 I’m a passionate developer with experience in various programming languages and frameworks. I enjoy building projects that challenge my skills and allow me to grow as a developer.
 
 ## 🌱 Current Learning
-I'm currently learning the .NET framework to expand my knowledge in full-stack development and explore more advanced C# features. I'm excited about building scalable applications and working with the latest tools in the .NET ecosystem!
-While I don't plan to release any games, I enjoy experimenting with the development of new mechanics I have not created before. 
+- Deepening my C# and .NET framework skills to develop scalable, full-stack applications.
+- Experimenting with Unity to prototype and design new gameplay mechanics.
+- Developing solo projects to improve my coding, math, and problem-solving skills in game development.
+- Exploring database management and systems design principles.
+
+While I don't plan to release a full game soon, I enjoy designing systems, creating modular code, and implementing new mechanics even with rough placeholder art and sound.
 
 ## 🧑‍💻 Languages and Technologies
-- **Programming Languages**: C#, C++, C, SQL, HTML, CSS, JavaScript, Python, Java
-- **Game Engines**: Unity, Unreal Engine
-- **Tools & Frameworks**: Visual Studio, VS Code, SSMS, Git, Selenium, Azure
-- **Currently Learning**: .NET Framework, Azure
+**Languages**: C, C++, C#, HTML, CSS, JavaScript, Python, Java  
+**Game Engines**: Unity, Unreal Engine  
+**Frameworks/Tools**: .NET, Selenium, Git, Visual Studio, VS Code, SQL  
+**Currently Improving**: .NET Full-stack Development, Database Systems, Web Communication
 
 ## 🔧 Projects
 Here are a few of my personal projects that I've worked on:
