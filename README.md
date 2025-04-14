@@ -38,7 +38,7 @@ Below are projects that I have done for classes at the University of Louisville.
 
 ## 🏆 Badges and Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imkappy&show_icons=true&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imkappy&show_icons=true&hide_title=tru)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imkappy&layout=compact)
 
