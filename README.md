@@ -26,7 +26,7 @@ Here are a few of my personal projects that I've worked on:
 - [FormFiller](https://github.com/imkappy/FormFiller): A C# tool to automate form/survey submissions. 
 
 ## 🏫 University Class Projects
-Below are projects that I have done for classes at a university. Some projects were solo and some projects were with a team of other students:
+Below are projects that I have done for classes at the University of Louisville. Some projects were solo and some projects were with a team of other students:
 
 - [Therapy Scheduler](https://github.com/imkappy/Therapy-Scheduler): A system to help a therapy company manage doctor appointments and patient schedules. This project involved **system design**, **technical writing**, **database management** (ERD), and **class modeling**. Worked on both the **technical documentation** and **system architecture** phases.
 - [Chicago Art Explorer](https://github.com/imkappy/Chicago-Art-Explorer): Built with **ASP.NET MVC** and **C#**, this web app fetches real-time Chicago public art data using a RESTful API and displays it interactively to users.
