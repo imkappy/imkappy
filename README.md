@@ -30,6 +30,7 @@ Below are projects that I have done for classes at the University of Louisville.
 
 - [Therapy Scheduler](https://github.com/imkappy/Therapy-Scheduler): A system to help a therapy company manage doctor appointments and patient schedules. This project involved **system design**, **technical writing**, **database management** (ERD), and **class modeling**. Worked on both the **technical documentation** and **system architecture** phases.
 - [Chicago Art Explorer](https://github.com/imkappy/Chicago-Art-Explorer): Built with **ASP.NET MVC** and **C#**, this web app fetches real-time Chicago public art data using a RESTful API and displays it interactively to users.
+- [BikeShopDB](https://github.com/imkappy/BikeShopDB): This project demonstrates my ability to build and query a normalized relational database for a fictional bike shop.
 
 
 ## 📫 How to reach me:
